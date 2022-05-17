@@ -40,7 +40,6 @@ urllib3==1.26.9; python_version >= "2.7" and python_full_version < "3.0.0" or py
 uvicorn==0.17.6; python_version >= "3.7"
 virtualenv==20.14.1; python_version >= "3.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.7"
 wcwidth==0.2.5; python_version >= "3.6"
-pytest==5.2; python_version >= "3.7"
 flake8==4.0.1; python_version >= "3.7"
 black==22.3.0; python_version >= "3.7"
 pre-commit==2.19.0; python_version >= "3.7"
