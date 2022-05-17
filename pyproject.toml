@@ -12,6 +12,7 @@ requests = "^2.27.1"
 uvicorn = "^0.17.6"
 isort = "^5.10.1"
 pre-commit = "^2.19.0"
+pytest-cov = "^3.0.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
